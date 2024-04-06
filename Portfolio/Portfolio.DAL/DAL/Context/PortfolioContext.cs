@@ -18,15 +18,15 @@ namespace DAL.Context
         Task<int> SaveChangesAsync(CancellationToken token);
 
     }
-    public class PortolioContext : DbContext, IPortfolioContext
+    public class PortfolioContext : DbContext, IPortfolioContext
     {
     
-        public PortolioContext()
+        public PortfolioContext()
         {
 
             
         }
-        public PortolioContext(DbContextOptions<PortolioContext> options) : base(options) 
+        public PortfolioContext(DbContextOptions<PortfolioContext> options) : base(options) 
         { 
         
         
