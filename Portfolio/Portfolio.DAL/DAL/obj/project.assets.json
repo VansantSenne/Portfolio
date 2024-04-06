@@ -1634,11 +1634,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Portfolio.DAL\\DAL\\DAL.csproj",
+      "projectUniqueName": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Portfolio.DAL\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Portfolio.DAL\\DAL\\DAL.csproj",
+      "projectPath": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Portfolio.DAL\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\Vansant Senne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Portfolio.DAL\\DAL\\obj\\",
+      "outputPath": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Portfolio.DAL\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vansant Senne\\AppData\\Roaming\\NuGet\\NuGet.Config",

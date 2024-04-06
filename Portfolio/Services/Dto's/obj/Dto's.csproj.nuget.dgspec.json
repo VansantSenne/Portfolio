@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Services\\Dto's\\Dto's.csproj": {}
+    "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Services\\Dto's\\Dto's.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Services\\Dto's\\Dto's.csproj": {
+    "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Services\\Dto's\\Dto's.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Services\\Dto's\\Dto's.csproj",
+        "projectUniqueName": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Services\\Dto's\\Dto's.csproj",
         "projectName": "Dto's",
-        "projectPath": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Services\\Dto's\\Dto's.csproj",
+        "projectPath": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Services\\Dto's\\Dto's.csproj",
         "packagesPath": "C:\\Users\\Vansant Senne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Services\\Dto's\\obj\\",
+        "outputPath": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Services\\Dto's\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vansant Senne\\AppData\\Roaming\\NuGet\\NuGet.Config",

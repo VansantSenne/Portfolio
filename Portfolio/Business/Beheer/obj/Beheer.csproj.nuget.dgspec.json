@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Business\\Beheer\\Beheer.csproj": {}
+    "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Business\\Beheer\\Beheer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Business\\Beheer\\Beheer.csproj": {
+    "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Business\\Beheer\\Beheer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Business\\Beheer\\Beheer.csproj",
+        "projectUniqueName": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Business\\Beheer\\Beheer.csproj",
         "projectName": "Beheer",
-        "projectPath": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Business\\Beheer\\Beheer.csproj",
+        "projectPath": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Business\\Beheer\\Beheer.csproj",
         "packagesPath": "C:\\Users\\Vansant Senne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Business\\Beheer\\obj\\",
+        "outputPath": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Business\\Beheer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vansant Senne\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Portfolio.DAL\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Portfolio.DAL\\DAL\\DAL.csproj"
+              "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Portfolio.DAL\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Portfolio.DAL\\DAL\\DAL.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Portfolio.DAL\\DAL\\DAL.csproj": {
+    "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Portfolio.DAL\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Portfolio.DAL\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Portfolio.DAL\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Portfolio.DAL\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Portfolio.DAL\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\Vansant Senne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Portfolio.DAL\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Portfolio.DAL\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vansant Senne\\AppData\\Roaming\\NuGet\\NuGet.Config",

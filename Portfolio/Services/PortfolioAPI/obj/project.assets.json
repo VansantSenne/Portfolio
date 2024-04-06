@@ -3702,11 +3702,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Services\\PortfolioAPI\\PortfolioAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Services\\PortfolioAPI\\PortfolioAPI.csproj",
       "projectName": "PortfolioAPI",
-      "projectPath": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Services\\PortfolioAPI\\PortfolioAPI.csproj",
+      "projectPath": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Services\\PortfolioAPI\\PortfolioAPI.csproj",
       "packagesPath": "C:\\Users\\Vansant Senne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Services\\PortfolioAPI\\obj\\",
+      "outputPath": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Services\\PortfolioAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vansant Senne\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3723,8 +3723,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Portfolio.DAL\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Portfolio.DAL\\DAL\\DAL.csproj"
+            "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Portfolio.DAL\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Portfolio.DAL\\DAL\\DAL.csproj"
             }
           }
         }

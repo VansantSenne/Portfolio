@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J+S7pG/TIWZNYrcD1X982Ak6tciFUAFw701h4Ar+jd/LezzqMiLzjVAghDuhVBGyrTlGUOmcel8Bil7myLCbbA==",
+  "dgSpecHash": "fujy33qcXIPytxQDgyB5utUH2BDqkA7FDfCfd16Vo42+M3lnOVwMqq23xh3BA7/lxHCinh/41wo5NPFJoMklrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Services\\PortfolioAPI\\PortfolioAPI.csproj",
+  "projectFilePath": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Services\\PortfolioAPI\\PortfolioAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vansant Senne\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Vansant Senne\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
