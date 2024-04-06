@@ -544,6 +544,16 @@
         "runtime": {
           "bin/placeholder/DAL.dll": {}
         }
+      },
+      "Dto/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Dto.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dto.dll": {}
+        }
       }
     }
   },
@@ -1639,11 +1649,17 @@
       "type": "project",
       "path": "../../Portfolio.DAL/DAL/DAL.csproj",
       "msbuildProject": "../../Portfolio.DAL/DAL/DAL.csproj"
+    },
+    "Dto/1.0.0": {
+      "type": "project",
+      "path": "../../Services/Dto/Dto.csproj",
+      "msbuildProject": "../../Services/Dto/Dto.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "DAL >= 1.0.0"
+      "DAL >= 1.0.0",
+      "Dto >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1675,6 +1691,9 @@
           "projectReferences": {
             "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Portfolio.DAL\\DAL\\DAL.csproj": {
               "projectPath": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Portfolio.DAL\\DAL\\DAL.csproj"
+            },
+            "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Services\\Dto\\Dto.csproj": {
+              "projectPath": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Services\\Dto\\Dto.csproj"
             }
           }
         }

@@ -1,58 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\",
+  "WorkspaceRootPath": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{732EB483-6E7C-4A92-B2CF-016AF9CE4B88}|Services\\Dto\u0027s\\Dto\u0027s.csproj|c:\\users\\vansant senne\\documents\\portfolio\\portfolio\\services\\dto\u0027s\\dto\u0027s\\projectsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{732EB483-6E7C-4A92-B2CF-016AF9CE4B88}|Services\\Dto\u0027s\\Dto\u0027s.csproj|solutionrelative:services\\dto\u0027s\\dto\u0027s\\projectsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3CFE92-CC4E-4CF5-B934-8EFBC979362A}|Portfolio.DAL\\DAL\\DAL.csproj|c:\\users\\vansant senne\\documents\\portfolio\\portfolio\\portfolio.dal\\dal\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D3CFE92-CC4E-4CF5-B934-8EFBC979362A}|Portfolio.DAL\\DAL\\DAL.csproj|solutionrelative:portfolio.dal\\dal\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCE8F304-160A-47B4-B931-A052D5E26798}|Business\\Beheer\\Beheer.csproj|c:\\users\\vansant senne\\documents\\portfolio\\portfolio\\business\\beheer\\handlers\\addprojecthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCE8F304-160A-47B4-B931-A052D5E26798}|Business\\Beheer\\Beheer.csproj|solutionrelative:business\\beheer\\handlers\\addprojecthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3CFE92-CC4E-4CF5-B934-8EFBC979362A}|Portfolio.DAL\\DAL\\DAL.csproj|c:\\users\\vansant senne\\documents\\portfolio\\portfolio\\portfolio.dal\\dal\\context\\portoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D3CFE92-CC4E-4CF5-B934-8EFBC979362A}|Portfolio.DAL\\DAL\\DAL.csproj|solutionrelative:portfolio.dal\\dal\\context\\portoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08078B11-45C4-4877-B2D9-3D8E912ACEB6}|Services\\PortfolioAPI\\PortfolioAPI.csproj|c:\\users\\vansant senne\\documents\\portfolio\\portfolio\\services\\portfolioapi\\portfolioapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{08078B11-45C4-4877-B2D9-3D8E912ACEB6}|Services\\PortfolioAPI\\PortfolioAPI.csproj|solutionrelative:services\\portfolioapi\\portfolioapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D3CFE92-CC4E-4CF5-B934-8EFBC979362A}|Portfolio.DAL\\DAL\\DAL.csproj|c:\\users\\vansant senne\\documents\\portfolio\\portfolio\\portfolio.dal\\dal\\entities\\framework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D3CFE92-CC4E-4CF5-B934-8EFBC979362A}|Portfolio.DAL\\DAL\\DAL.csproj|solutionrelative:portfolio.dal\\dal\\entities\\framework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCE8F304-160A-47B4-B931-A052D5E26798}|Business\\Beheer\\Beheer.csproj|c:\\users\\vansant senne\\documents\\portfolio\\portfolio\\business\\beheer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCE8F304-160A-47B4-B931-A052D5E26798}|Business\\Beheer\\Beheer.csproj|solutionrelative:business\\beheer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08078B11-45C4-4877-B2D9-3D8E912ACEB6}|Services\\PortfolioAPI\\PortfolioAPI.csproj|c:\\users\\vansant senne\\documents\\portfolio\\portfolio\\services\\portfolioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08078B11-45C4-4877-B2D9-3D8E912ACEB6}|Services\\PortfolioAPI\\PortfolioAPI.csproj|solutionrelative:services\\portfolioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08078B11-45C4-4877-B2D9-3D8E912ACEB6}|Services\\PortfolioAPI\\PortfolioAPI.csproj|c:\\users\\vansant senne\\documents\\portfolio\\portfolio\\services\\portfolioapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{08078B11-45C4-4877-B2D9-3D8E912ACEB6}|Services\\PortfolioAPI\\PortfolioAPI.csproj|c:\\users\\vansant senne\\documents\\portfoliorepo\\portfolio\\services\\portfolioapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{08078B11-45C4-4877-B2D9-3D8E912ACEB6}|Services\\PortfolioAPI\\PortfolioAPI.csproj|solutionrelative:services\\portfolioapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D3CFE92-CC4E-4CF5-B934-8EFBC979362A}|Portfolio.DAL\\DAL\\DAL.csproj|c:\\users\\vansant senne\\documents\\portfolio\\portfolio\\portfolio.dal\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D3CFE92-CC4E-4CF5-B934-8EFBC979362A}|Portfolio.DAL\\DAL\\DAL.csproj|solutionrelative:portfolio.dal\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DCE8F304-160A-47B4-B931-A052D5E26798}|Business\\Beheer\\Beheer.csproj|c:\\users\\vansant senne\\documents\\portfoliorepo\\portfolio\\business\\beheer\\handlers\\getprojectshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE8F304-160A-47B4-B931-A052D5E26798}|Business\\Beheer\\Beheer.csproj|solutionrelative:business\\beheer\\handlers\\getprojectshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D3CFE92-CC4E-4CF5-B934-8EFBC979362A}|Portfolio.DAL\\DAL\\DAL.csproj|c:\\users\\vansant senne\\documents\\portfolio\\portfolio\\portfolio.dal\\dal\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D3CFE92-CC4E-4CF5-B934-8EFBC979362A}|Portfolio.DAL\\DAL\\DAL.csproj|c:\\users\\vansant senne\\documents\\portfoliorepo\\portfolio\\portfolio.dal\\dal\\entities\\framework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3CFE92-CC4E-4CF5-B934-8EFBC979362A}|Portfolio.DAL\\DAL\\DAL.csproj|solutionrelative:portfolio.dal\\dal\\entities\\framework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3CFE92-CC4E-4CF5-B934-8EFBC979362A}|Portfolio.DAL\\DAL\\DAL.csproj|c:\\users\\vansant senne\\documents\\portfoliorepo\\portfolio\\portfolio.dal\\dal\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D3CFE92-CC4E-4CF5-B934-8EFBC979362A}|Portfolio.DAL\\DAL\\DAL.csproj|solutionrelative:portfolio.dal\\dal\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D3CFE92-CC4E-4CF5-B934-8EFBC979362A}|Portfolio.DAL\\DAL\\DAL.csproj|c:\\users\\vansant senne\\documents\\portfolio\\portfolio\\portfolio.dal\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{6D3CFE92-CC4E-4CF5-B934-8EFBC979362A}|Portfolio.DAL\\DAL\\DAL.csproj|c:\\users\\vansant senne\\documents\\portfoliorepo\\portfolio\\portfolio.dal\\dal\\context\\portoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3CFE92-CC4E-4CF5-B934-8EFBC979362A}|Portfolio.DAL\\DAL\\DAL.csproj|solutionrelative:portfolio.dal\\dal\\context\\portoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3CFE92-CC4E-4CF5-B934-8EFBC979362A}|Portfolio.DAL\\DAL\\DAL.csproj|c:\\users\\vansant senne\\documents\\portfoliorepo\\portfolio\\portfolio.dal\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{6D3CFE92-CC4E-4CF5-B934-8EFBC979362A}|Portfolio.DAL\\DAL\\DAL.csproj|solutionrelative:portfolio.dal\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{732EB483-6E7C-4A92-B2CF-016AF9CE4B88}|Services\\Dto\u0027s\\Dto\u0027s.csproj|c:\\users\\vansant senne\\documents\\portfolio\\portfolio\\services\\dto\u0027s\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{732EB483-6E7C-4A92-B2CF-016AF9CE4B88}|Services\\Dto\u0027s\\Dto\u0027s.csproj|solutionrelative:services\\dto\u0027s\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08078B11-45C4-4877-B2D9-3D8E912ACEB6}|Services\\PortfolioAPI\\PortfolioAPI.csproj|c:\\users\\vansant senne\\documents\\portfoliorepo\\portfolio\\services\\portfolioapi\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08078B11-45C4-4877-B2D9-3D8E912ACEB6}|Services\\PortfolioAPI\\PortfolioAPI.csproj|solutionrelative:services\\portfolioapi\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08078B11-45C4-4877-B2D9-3D8E912ACEB6}|Services\\PortfolioAPI\\PortfolioAPI.csproj|c:\\users\\vansant senne\\documents\\portfoliorepo\\portfolio\\services\\portfolioapi\\portfolioapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{08078B11-45C4-4877-B2D9-3D8E912ACEB6}|Services\\PortfolioAPI\\PortfolioAPI.csproj|solutionrelative:services\\portfolioapi\\portfolioapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6F732A-EE41-40E0-8FAF-E302F428F081}|Services\\Dto\\Dto.csproj|c:\\users\\vansant senne\\documents\\portfoliorepo\\portfolio\\services\\dto\\dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D6F732A-EE41-40E0-8FAF-E302F428F081}|Services\\Dto\\Dto.csproj|solutionrelative:services\\dto\\dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3CFE92-CC4E-4CF5-B934-8EFBC979362A}|Portfolio.DAL\\DAL\\DAL.csproj|c:\\users\\vansant senne\\documents\\portfoliorepo\\portfolio\\portfolio.dal\\dal\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3CFE92-CC4E-4CF5-B934-8EFBC979362A}|Portfolio.DAL\\DAL\\DAL.csproj|solutionrelative:portfolio.dal\\dal\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6F732A-EE41-40E0-8FAF-E302F428F081}|Services\\Dto\\Dto.csproj|c:\\users\\vansant senne\\documents\\portfoliorepo\\portfolio\\services\\dto\\dto\\projectsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6F732A-EE41-40E0-8FAF-E302F428F081}|Services\\Dto\\Dto.csproj|solutionrelative:services\\dto\\dto\\projectsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08078B11-45C4-4877-B2D9-3D8E912ACEB6}|Services\\PortfolioAPI\\PortfolioAPI.csproj|c:\\users\\vansant senne\\documents\\portfoliorepo\\portfolio\\services\\portfolioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08078B11-45C4-4877-B2D9-3D8E912ACEB6}|Services\\PortfolioAPI\\PortfolioAPI.csproj|solutionrelative:services\\portfolioapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE8F304-160A-47B4-B931-A052D5E26798}|Business\\Beheer\\Beheer.csproj|c:\\users\\vansant senne\\documents\\portfoliorepo\\portfolio\\business\\beheer\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE8F304-160A-47B4-B931-A052D5E26798}|Business\\Beheer\\Beheer.csproj|solutionrelative:business\\beheer\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE8F304-160A-47B4-B931-A052D5E26798}|Business\\Beheer\\Beheer.csproj|c:\\users\\vansant senne\\documents\\portfoliorepo\\portfolio\\business\\beheer\\beheer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DCE8F304-160A-47B4-B931-A052D5E26798}|Business\\Beheer\\Beheer.csproj|solutionrelative:business\\beheer\\beheer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6F732A-EE41-40E0-8FAF-E302F428F081}|Services\\Dto\\Dto.csproj|c:\\users\\vansant senne\\documents\\portfoliorepo\\portfolio\\services\\dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6F732A-EE41-40E0-8FAF-E302F428F081}|Services\\Dto\\Dto.csproj|solutionrelative:services\\dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE8F304-160A-47B4-B931-A052D5E26798}|Business\\Beheer\\Beheer.csproj|c:\\users\\vansant senne\\documents\\portfoliorepo\\portfolio\\business\\beheer\\handlers\\addprojecthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE8F304-160A-47B4-B931-A052D5E26798}|Business\\Beheer\\Beheer.csproj|solutionrelative:business\\beheer\\handlers\\addprojecthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3CFE92-CC4E-4CF5-B934-8EFBC979362A}|Portfolio.DAL\\DAL\\DAL.csproj|c:\\users\\vansant senne\\documents\\portfoliorepo\\portfolio\\portfolio.dal\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3CFE92-CC4E-4CF5-B934-8EFBC979362A}|Portfolio.DAL\\DAL\\DAL.csproj|solutionrelative:portfolio.dal\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,178 +78,110 @@
       "DocumentGroups": [
         {
           "DockedHeight": 310,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProjectsDto.cs",
-              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Services\\Dto\u0027s\\Dto\u0027s\\ProjectsDto.cs",
-              "RelativeDocumentMoniker": "Services\\Dto\u0027s\\Dto\u0027s\\ProjectsDto.cs",
-              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Services\\Dto\u0027s\\Dto\u0027s\\ProjectsDto.cs",
-              "RelativeToolTip": "Services\\Dto\u0027s\\Dto\u0027s\\ProjectsDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T09:50:41.95Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PortfolioAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Services\\PortfolioAPI\\PortfolioAPI.csproj",
-              "RelativeDocumentMoniker": "Services\\PortfolioAPI\\PortfolioAPI.csproj",
-              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Services\\PortfolioAPI\\PortfolioAPI.csproj",
-              "RelativeToolTip": "Services\\PortfolioAPI\\PortfolioAPI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-24T10:53:15.244Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AddProjectHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Business\\Beheer\\Handlers\\AddProjectHandler.cs",
-              "RelativeDocumentMoniker": "Business\\Beheer\\Handlers\\AddProjectHandler.cs",
-              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Business\\Beheer\\Handlers\\AddProjectHandler.cs",
-              "RelativeToolTip": "Business\\Beheer\\Handlers\\AddProjectHandler.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T10:43:49.221Z",
-              "EditorCaption": ""
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Services\\PortfolioAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "Services\\PortfolioAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Services\\PortfolioAPI\\appsettings.json",
-              "RelativeToolTip": "Services\\PortfolioAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-24T10:25:36.561Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Services\\PortfolioAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\PortfolioAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Services\\PortfolioAPI\\Program.cs",
-              "RelativeToolTip": "Services\\PortfolioAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T09:59:32.456Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PortolioContext.cs",
-              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Portfolio.DAL\\DAL\\Context\\PortolioContext.cs",
-              "RelativeDocumentMoniker": "Portfolio.DAL\\DAL\\Context\\PortolioContext.cs",
-              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Portfolio.DAL\\DAL\\Context\\PortolioContext.cs",
-              "RelativeToolTip": "Portfolio.DAL\\DAL\\Context\\PortolioContext.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAmwB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T09:48:52.116Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DAL.csproj",
-              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Portfolio.DAL\\DAL\\DAL.csproj",
-              "RelativeDocumentMoniker": "Portfolio.DAL\\DAL\\DAL.csproj",
-              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Portfolio.DAL\\DAL\\DAL.csproj",
-              "RelativeToolTip": "Portfolio.DAL\\DAL\\DAL.csproj",
+              "Title": "Dto",
+              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Services\\Dto\\Dto.csproj",
+              "RelativeDocumentMoniker": "Services\\Dto\\Dto.csproj",
+              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Services\\Dto\\Dto.csproj",
+              "RelativeToolTip": "Services\\Dto\\Dto.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-24T09:26:13.67Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Framework.cs",
-              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Portfolio.DAL\\DAL\\Entities\\Framework.cs",
-              "RelativeDocumentMoniker": "Portfolio.DAL\\DAL\\Entities\\Framework.cs",
-              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Portfolio.DAL\\DAL\\Entities\\Framework.cs",
-              "RelativeToolTip": "Portfolio.DAL\\DAL\\Entities\\Framework.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T09:27:06.263Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Portfolio.DAL\\DAL\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "Portfolio.DAL\\DAL\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Portfolio.DAL\\DAL\\Entities\\Category.cs",
-              "RelativeToolTip": "Portfolio.DAL\\DAL\\Entities\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T09:25:57.419Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Project.cs",
-              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Portfolio.DAL\\DAL\\Entities\\Project.cs",
-              "RelativeDocumentMoniker": "Portfolio.DAL\\DAL\\Entities\\Project.cs",
-              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Portfolio.DAL\\DAL\\Entities\\Project.cs",
-              "RelativeToolTip": "Portfolio.DAL\\DAL\\Entities\\Project.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T20:36:17.813Z",
+              "WhenOpened": "2024-04-06T14:11:13.528Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Business\\Beheer\\Class1.cs",
-              "RelativeDocumentMoniker": "Business\\Beheer\\Class1.cs",
-              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Business\\Beheer\\Class1.cs",
-              "RelativeToolTip": "Business\\Beheer\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Services\\PortfolioAPI\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "Services\\PortfolioAPI\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Services\\PortfolioAPI\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "Services\\PortfolioAPI\\Controllers\\ProjectsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T20:32:56.84Z"
+              "WhenOpened": "2024-04-06T13:42:51.676Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Portfolio.DAL\\DAL\\Class1.cs",
-              "RelativeDocumentMoniker": "Portfolio.DAL\\DAL\\Class1.cs",
-              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Portfolio.DAL\\DAL\\Class1.cs",
-              "RelativeToolTip": "Portfolio.DAL\\DAL\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "GetProjectsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Business\\Beheer\\Handlers\\GetProjectsHandler.cs",
+              "RelativeDocumentMoniker": "Business\\Beheer\\Handlers\\GetProjectsHandler.cs",
+              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Business\\Beheer\\Handlers\\GetProjectsHandler.cs",
+              "RelativeToolTip": "Business\\Beheer\\Handlers\\GetProjectsHandler.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwB0AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T20:29:54.149Z"
+              "WhenOpened": "2024-04-06T13:27:22.217Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Services\\Dto\u0027s\\Class1.cs",
-              "RelativeDocumentMoniker": "Services\\Dto\u0027s\\Class1.cs",
-              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\Portfolio\\Portfolio\\Services\\Dto\u0027s\\Class1.cs",
-              "RelativeToolTip": "Services\\Dto\u0027s\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Services\\PortfolioAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\PortfolioAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Services\\PortfolioAPI\\Program.cs",
+              "RelativeToolTip": "Services\\PortfolioAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T20:34:17.602Z"
+              "WhenOpened": "2024-03-24T09:59:32.456Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PortfolioAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Services\\PortfolioAPI\\PortfolioAPI.csproj",
+              "RelativeDocumentMoniker": "Services\\PortfolioAPI\\PortfolioAPI.csproj",
+              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Services\\PortfolioAPI\\PortfolioAPI.csproj",
+              "RelativeToolTip": "Services\\PortfolioAPI\\PortfolioAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-24T10:53:15.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Framework.cs",
+              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Portfolio.DAL\\DAL\\Entities\\Framework.cs",
+              "RelativeDocumentMoniker": "Portfolio.DAL\\DAL\\Entities\\Framework.cs",
+              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Portfolio.DAL\\DAL\\Entities\\Framework.cs",
+              "RelativeToolTip": "Portfolio.DAL\\DAL\\Entities\\Framework.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T09:27:06.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Services\\PortfolioAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\PortfolioAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Services\\PortfolioAPI\\appsettings.json*",
+              "RelativeToolTip": "Services\\PortfolioAPI\\appsettings.json*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-24T10:25:36.561Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -241,7 +189,137 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Portfolio.DAL\\DAL\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Portfolio.DAL\\DAL\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Portfolio.DAL\\DAL\\Entities\\Category.cs",
+              "RelativeToolTip": "Portfolio.DAL\\DAL\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T09:25:57.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PortolioContext.cs",
+              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Portfolio.DAL\\DAL\\Context\\PortolioContext.cs",
+              "RelativeDocumentMoniker": "Portfolio.DAL\\DAL\\Context\\PortolioContext.cs",
+              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Portfolio.DAL\\DAL\\Context\\PortolioContext.cs",
+              "RelativeToolTip": "Portfolio.DAL\\DAL\\Context\\PortolioContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T09:48:52.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Beheer",
+              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Business\\Beheer\\Beheer.csproj",
+              "RelativeDocumentMoniker": "Business\\Beheer\\Beheer.csproj",
+              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Business\\Beheer\\Beheer.csproj",
+              "RelativeToolTip": "Business\\Beheer\\Beheer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-06T13:32:08.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Services\\Dto\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Dto\\Class1.cs",
+              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Services\\Dto\\Class1.cs",
+              "RelativeToolTip": "Services\\Dto\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T13:35:54.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Portfolio.DAL\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "Portfolio.DAL\\DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Portfolio.DAL\\DAL\\DAL.csproj",
+              "RelativeToolTip": "Portfolio.DAL\\DAL\\DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-24T09:26:13.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjectsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Services\\Dto\\Dto\\ProjectsDto.cs",
+              "RelativeDocumentMoniker": "Services\\Dto\\Dto\\ProjectsDto.cs",
+              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Services\\Dto\\Dto\\ProjectsDto.cs",
+              "RelativeToolTip": "Services\\Dto\\Dto\\ProjectsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T13:36:22.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Business\\Beheer\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Business\\Beheer\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Business\\Beheer\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Business\\Beheer\\ServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T13:45:36.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Portfolio.DAL\\DAL\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "Portfolio.DAL\\DAL\\Entities\\Project.cs",
+              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Portfolio.DAL\\DAL\\Entities\\Project.cs",
+              "RelativeToolTip": "Portfolio.DAL\\DAL\\Entities\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T20:36:17.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddProjectHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Business\\Beheer\\Handlers\\AddProjectHandler.cs",
+              "RelativeDocumentMoniker": "Business\\Beheer\\Handlers\\AddProjectHandler.cs",
+              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Business\\Beheer\\Handlers\\AddProjectHandler.cs",
+              "RelativeToolTip": "Business\\Beheer\\Handlers\\AddProjectHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T10:43:49.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Portfolio.DAL\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "Portfolio.DAL\\DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\Vansant Senne\\Documents\\PortfolioRepo\\Portfolio\\Portfolio.DAL\\DAL\\Class1.cs",
+              "RelativeToolTip": "Portfolio.DAL\\DAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T20:29:54.149Z",
+              "EditorCaption": ""
             }
           ]
         }

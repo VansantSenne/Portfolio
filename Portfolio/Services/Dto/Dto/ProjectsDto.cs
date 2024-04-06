@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Dto_s.Dto_s
+namespace Dto.Dto
 {
     public class ProjectsDto
     {
-        public int Id { get; set; } 
+        public int Id { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
         public int CategoryId { get; set; }

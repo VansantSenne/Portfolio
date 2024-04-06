@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Portfolio.DAL\DAL\DAL.csproj" />
-  </ItemGroup>
+    <ProjectReference Include="..\..\Services\Dto\Dto.csproj" />
+ </ItemGroup>
 
 </Project>

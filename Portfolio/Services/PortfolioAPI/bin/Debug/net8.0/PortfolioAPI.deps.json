@@ -8,7 +8,9 @@
     ".NETCoreApp,Version=v8.0": {
       "PortfolioAPI/1.0.0": {
         "dependencies": {
+          "Beheer": "1.0.0",
           "DAL": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.3",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
@@ -647,6 +649,15 @@
           }
         }
       },
+      "Beheer/1.0.0": {
+        "dependencies": {
+          "DAL": "1.0.0",
+          "Dto": "1.0.0"
+        },
+        "runtime": {
+          "Beheer.dll": {}
+        }
+      },
       "DAL/1.0.0": {
         "dependencies": {
           "EntityFramework": "6.4.4",
@@ -654,6 +665,11 @@
         },
         "runtime": {
           "DAL.dll": {}
+        }
+      },
+      "Dto/1.0.0": {
+        "runtime": {
+          "Dto.dll": {}
         }
       }
     }
@@ -1154,7 +1170,17 @@
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
+    "Beheer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dto/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

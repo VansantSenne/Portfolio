@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Beheer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b12b9d750f8fcc0f87f40b079b6e8bf926da3be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+326f54f92b2d643e4c817308753eda215317bb33")]
 [assembly: System.Reflection.AssemblyProductAttribute("Beheer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Beheer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
