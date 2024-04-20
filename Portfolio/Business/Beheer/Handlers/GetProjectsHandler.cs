@@ -25,14 +25,10 @@ namespace Beheer.Handlers
         public async Task<IEnumerable<ProjectsDto>> HandleAsync()
         {
             var result = await _portfolioContext.Projects.ToListAsync();
-            if (result == null) 
-            {
-                return null;
-            }
 
             return result.Select(x => new ProjectsDto
             {
-                Id = x.ObjectId,
+                Id = x.ProjectId,
                 Name = x.Name,
                 FrameworkId = x.FrameworkId,
                 CategoryId = x.CategoryId,

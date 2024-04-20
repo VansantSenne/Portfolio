@@ -13,7 +13,7 @@ namespace Beheer
     {
         public static IServiceCollection ProjectServices(this IServiceCollection services)
         {
-            services.AddTransient<IPortfolioContext, PortolioContext>();
+            services.AddTransient<IPortfolioContext, PortfolioContext>();
             services.AddTransient<IGetProjectsHandler, GetProjectsHandler>();
             return services;
         }

@@ -13,7 +13,7 @@ namespace DAL.Entities
     public class Category
     {
         [Key]
-        public int ObjectId { get; set; }
+        public int CategoryId { get; set; }
         public string Name { get; set; }
     }
 }

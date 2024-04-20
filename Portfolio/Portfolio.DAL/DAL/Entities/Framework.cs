@@ -13,7 +13,7 @@ namespace DAL.Entities
     public class Framework
     {
         [Key]
-        public int ObjectId { get; set; }
+        public int FrameworkId { get; set; }
         public string Name { get; set; }
     }
 }

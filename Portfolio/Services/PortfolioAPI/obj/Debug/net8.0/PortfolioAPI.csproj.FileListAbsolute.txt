@@ -165,3 +165,5 @@ C:\Users\Vansant Senne\Documents\PortfolioRepo\Portfolio\Services\PortfolioAPI\b
 C:\Users\Vansant Senne\Documents\PortfolioRepo\Portfolio\Services\PortfolioAPI\bin\Debug\net8.0\Dto.dll
 C:\Users\Vansant Senne\Documents\PortfolioRepo\Portfolio\Services\PortfolioAPI\bin\Debug\net8.0\Beheer.pdb
 C:\Users\Vansant Senne\Documents\PortfolioRepo\Portfolio\Services\PortfolioAPI\bin\Debug\net8.0\Dto.pdb
+C:\Users\Vansant Senne\Documents\PortfolioRepo\Portfolio\Services\PortfolioAPI\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Vansant Senne\Documents\PortfolioRepo\Portfolio\Services\PortfolioAPI\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
